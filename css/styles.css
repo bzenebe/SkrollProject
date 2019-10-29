@@ -24,18 +24,18 @@ html, body{
 }
 
 .box {
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
@@ -43,18 +43,18 @@ opacity: .7;
 
 .box2 {
 
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
@@ -62,18 +62,18 @@ opacity: .7;
 
 .box3 {
 
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
@@ -81,18 +81,18 @@ opacity: .7;
 
 .box4 {
 
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
@@ -100,18 +100,18 @@ opacity: .7;
 
 .box5 {
 
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
@@ -119,18 +119,18 @@ opacity: .7;
 
 .box6 {
 
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
@@ -138,37 +138,56 @@ opacity: .7;
 
 .box7 {
 
-position: fixed;
-width: 150px;
-height: 50px;
-background-color: blue;
-opacity: .7;
- width:500px;
-  height:100px;
-  top:60%;
-  margin-left: -100px;
-  margin-right: auto;
-  -webkit-transition-duration: .1s;
-  -webkit-transition-delay: now;
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: .7;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+
+}
+
+.box20 {
+
+	position: fixed;
+	width: 150px;
+	height: 50px;
+	background-color: blue;
+	opacity: 1;
+	width:500px;
+	height:100px;
+	top:60%;
+	margin-left: -100px;
+	margin-right: auto;
+	-webkit-transition-duration: .1s;
+	-webkit-transition-delay: now;
 	-webkit-animation-timing-function: linear;
 	-webkit-animation-iteration-count: infinite;
 
 }
 
 .box {
-  animation: MoveUpDown 1s linear infinite;
-  position: absolute;
-  left: 0;
-  bottom: 0;
+	animation: MoveUpDown 1s linear infinite;
+	position: absolute;
+	left: 0;
+	bottom: 0;
 }
 
 @keyframes MoveUpDown {
-  0%, 100% {
-    bottom: 0;
-  }
-  50% {
-    bottom: 100px;
-  }
+	0%, 100% {
+		bottom: 0;
+	}
+	50% {
+		bottom: 100px;
+	}
 }
 
 p {
@@ -193,7 +212,7 @@ a {
 
 
 .circle2 {
-position: fixed;
+	position: fixed;
 	display: inline-block;
 	border-radius: 50%;
 	color: red;
@@ -205,10 +224,24 @@ position: fixed;
 
 	margin-left: auto;
 	margin-right: auto;
-	
+
 }
 
+.box21, .box22, .box23 {
 
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	background-color: white;
+	opacity: 1;
+	top:60%;
+	-webkit-transition-duration: 1s;
+	-webkit-transition-delay: none;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+	opacity: .8;
+
+}
 
 
 
