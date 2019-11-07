@@ -260,7 +260,17 @@ a {
 
 
 
-
+.circle7, .circle8, .circle9, .circle10, .circle11, .circle12 {
+	position: fixed;
+	display: inline-block;
+	border-radius: 50%;
+	color: red;
+	background-color: red;
+	-webkit-transition-duration: .7s;
+	-webkit-transition-delay: now;
+	-webkit-animation-timing-function: linear;
+	-webkit-animation-iteration-count: infinite;
+}
 
 
 
